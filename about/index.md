@@ -8,8 +8,6 @@ Welcome to my Data Science project blogs.
 The site is currently under construction, but expect the list of blogs grows
 over time.
 
-Samir Lipovaca
-
-slipovaca\@aol.com
+![](../images/email.JPG)
 
  
