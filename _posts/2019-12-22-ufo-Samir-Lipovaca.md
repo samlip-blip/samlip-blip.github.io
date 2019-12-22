@@ -1,6 +1,5 @@
 ---
 title: What story UFO observational data is telling about the UFO phenomenon?
-author: Samir Lipovaca
 ---
 
  
@@ -47,11 +46,7 @@ papers about UFOs have been published in peer-reviewed journals. The general
 conclusion in the scientific community was that the phenomenon was not worthy of
 serious investigation except as a cultural artifact.
 
- 
-
 [1]. <https://en.wikipedia.org/wiki/Unidentified_flying_object>
-
- 
 
 **1.2 Problem**
 
@@ -65,13 +60,9 @@ paramount importance for forming an honest opinion about a particular
 phenomenon. So what story is the UFO observational data telling? Our problem is
 to attempt to reveal this story.
 
- 
-
 **1.3 Interest**
 
 This report is targeted to anyone interested in the UFO phenomenon.
-
- 
 
 **2. Data**
 -----------
@@ -98,8 +89,6 @@ things to note:
 4.  The "cleaned" version of the dataset has a few key standardizations applied
     like date times, city names, state codes, etc that make it easier to work
     with.
-
- 
 
 Columns information:
 
@@ -128,11 +117,7 @@ Columns information:
 
 12. city_longitude: The longitude of the city in which the sighting occurred.
 
- 
-
 [2]. <https://data.world/timothyrenner/ufo-sightings>
-
- 
 
 **3. Methodology**
 ------------------
@@ -191,15 +176,11 @@ lowest entropy reports.
 After all these steps we can attempt to reveal the story the UFO observational
 data is telling about the UFO phenomenon.
 
- 
-
 [3]. <https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/>
 
 [4]. <https://wordnet.princeton.edu/>
 
 [5]. <https://machinelearningmastery.com/what-is-information-entropy/>
-
- 
 
 **4. Analysis**
 ---------------
@@ -210,8 +191,6 @@ is used to run analysis and produce results.
 
 More information about notebooks in the IBM Watson Studio can be found
 [here](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/notebooks-parent.html).
-
- 
 
 **4.1 Basic Explanatory Analysis**
 
@@ -235,8 +214,6 @@ new column called *text_mining_info* which will be the **text** when the
 **text** is populated, otherwise it will be the **summary** when the **text** is
 NaN. We will use the *text_mining_info* column in our analysis. Specifically,
 text cleaning will be applied to this column.
-
- 
 
 **4.2 The NLP analysis - text cleaning**
 
@@ -273,8 +250,6 @@ we want to combine all these lists into one list. Unfortunately, a very
 convenient statement like this: *ufo_list
 =np.concatenate(explore_text_mining_info_df.mining_info2.values)* would cause
 the kernel of the notebook to die.
-
- 
 
 **4.3 Dealing with dying kernel**
 
@@ -318,8 +293,6 @@ above dataframe. First 30 most frequent words in the list are displayed.
 We see that the first few words suggest some bright moving object in the sky and
 light, lights as the most common words used to describe the UFO phenomenon.
 
- 
-
 **4.5 The NLP analysis - Identify nouns, verbs, adverbs and adjectives in the
 list**
 
@@ -339,8 +312,6 @@ If we list these ‘None’ words we can easily see that ‘would’, ‘could�
 ‘else’, ..., etc. are in this group so ‘None’ words in essence do not carry
 information important for the description of the UFO phenomenon and we remove
 these words from the list.
-
- 
 
 **4.6 The NLP analysis - Stemming**
 
@@ -394,8 +365,6 @@ top 6 sighting reports is displayed below.
 ![](../images/P13.JPG)
 
 Certainly, the third and sixth are quite intriguing.
-
- 
 
 **5. Results**
 --------------
@@ -585,12 +554,8 @@ The third report is about a Close Encounter of the Fifth Kind which Wikipedia
 defines as “a UFO event that involves direct communication between aliens and
 humans” [6].
 
- 
-
 [6].
 <https://en.wikipedia.org/wiki/Close_encounter#Close_Encounters_of_the_Fifth_Kind>
-
- 
 
 Some captivating parts of that report:
 
@@ -601,8 +566,6 @@ Here’s what happened. We watched as the craft came lower, stopped, and became 
 
 The happiest feeling of anticipation had suddenly come upon me. I knew to expect something wonderful to happen between them and me. They were doing something to affect my mental state giving me a wonderful feeling of euphoria. It‘s nothing like anything I’ve ever felt, a totally joyful happy feeling beyond description. I was so glad they were here and understood, waiting for something. I dared not move a muscle although knew I wasn’t restrained. Whatever came next I wanted to be part of it. Next, I was sensing a projection of thought to me, when soon thought-speech appeared in mind in my own idiom....
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- 
 
 The most bizarre part of the 6th report is a description of a possible
 extraterrestrial biological entity:
@@ -615,8 +578,6 @@ At the very end of the guard rail as we were swinging around we saw something st
 My daughter said that she didn’t look at it but then moments later she said that it was really thin. I remember asking her how do you know that if you didn’t look at it? She still can’t answer that question, but is adamant about not looking at it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
-
 Besides a possible abduction in both cases, what is so striking about the 6th
 report is that points to a possible occurrence of missing time:
 
@@ -624,12 +585,8 @@ report is that points to a possible occurrence of missing time:
 Strange thing is that the clock on her cell and the register receipt didn’t match. The receipt said we left there at 10:05 and my daughter had gotten a call from her husband while we were at the table and the time read 10:46. That would mean that by her cell we left there after 11:00 PM. I know we weren’t sitting there for that long. I called the Denny’s last week and spoke to a manager to see if the register’s time was off. But, it was accurate. I can’t explain the difference.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
-
 Feel free to click on the links for these 2 reports or any of the above reports
 to explore them.
-
- 
 
 **6. Discussion**
 -----------------
@@ -701,13 +658,9 @@ players and radios can mysteriously play the CD backwards and they can cause
 occurrence of missing time! Finally, entities in these objects can abduct the
 person.
 
- 
-
 [7]. Hynek, Allen J. (1998) [First published 1972]. *The UFO Experience: A
 Scientific Inquiry*. Da Capo
 Press. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-1-56924-782-2](https://en.wikipedia.org/wiki/Special:BookSources/978-1-56924-782-2).
-
- 
 
 **7. Conclusion**
 -----------------
