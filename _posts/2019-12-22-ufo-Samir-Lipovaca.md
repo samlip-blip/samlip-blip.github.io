@@ -569,8 +569,7 @@ The third report is about a Close Encounter of the Fifth Kind which Wikipedia
 defines as “a UFO event that involves direct communication between aliens and
 humans” [6].
 
-[6].
-<https://en.wikipedia.org/wiki/Close_encounter#Close_Encounters_of_the_Fifth_Kind>
+[6].<https://en.wikipedia.org/wiki/Close_encounter#Close_Encounters_of_the_Fifth_Kind>
 
 Some captivating parts of that report:
 
