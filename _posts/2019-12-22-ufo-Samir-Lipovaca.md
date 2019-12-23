@@ -247,9 +247,11 @@ explore_text_mining_info_df["mining_info2"]=explore_text_mining_info_df["mining_
 At this point we have converted the information from every sighting report into
 a desirable list of words. A lot of lists were created, 112094 to be exact. Now
 we want to combine all these lists into one list. Unfortunately, a very
-convenient statement like this: *ufo_list
-=np.concatenate(explore_text_mining_info_df.mining_info2.values)* would cause
-the kernel of the notebook to die.
+convenient statement like this:
+
+*ufo_list =np.concatenate(explore_text_mining_info_df.mining_info2.values)*
+
+would cause the kernel of the notebook to die.
 
 **4.3 Dealing with dying kernel**
 
@@ -507,45 +509,45 @@ observational data is telling about the UFO phenomenon:
 
 *It is about a moving, bright object or objects in the sky with distinct light
 features, extraordinary, unusual, flying characteristics, power to affect nearby
-things or living beings and some noticeable, sometimes, changing shape.*  
-  
+things or living beings and some noticeable, sometimes, changing shape.*
+
 *The object can look like a colorful light in the sky that changes color, for
 example, from red to green to yellow, the light can be flashing or the light
 that disappears or the object looks like a moving star. For example, "glowing
 light that moved, stopped, glowed brighter and dimmed out" or "right before it
-would have hit plane, the light just sucked up in nothing and vanished".*  
-  
-*It seems if you look at the object’s lights it can affect you emotionally!*  
-  
+would have hit plane, the light just sucked up in nothing and vanished".*
+
+*It seems if you look at the object’s lights it can affect you emotionally!*
+
 *These objects can hover and disappear, move erratically, like zig zag, can
-float and make absolutely no noise or sound.*  
-  
+float and make absolutely no noise or sound.*
+
 *The object can be a silent airborne object and can come to a complete, sudden
-stop and smaller objects can fall out of the object.*  
-  
+stop and smaller objects can fall out of the object.*
+
 *These objects can fly in a perfect formation like a perfect line or in a
 strange formation, for example S-shaped pattern, can loop over each other and
 display extraordinary maneuverability and speed and can suddenly change
-direction.*  
-  
+direction.*
+
 *It looks the object can somehow affect the memory of a person looking at it,
-causing memory gaps!*  
-  
+causing memory gaps!*
+
 *Besides causing electrical failures in the car, wipers beating windshields,
-etc. the object can affect animal life as well.*  
-  
+etc. the object can affect animal life as well.*
+
 *It looks when these objects are around, CD players and radios can mysteriously
-play the CD backwards!*  
-  
+play the CD backwards!*
+
 *The objects can drain the power from the battery of car, seems to hear what a
-person was thinking and entities can abduct the person.*  
-  
+person was thinking and entities can abduct the person.*
+
 *The most frequent 5 shapes for these objects are light, circle, triangle,
-fireball or unknown.*  
-  
+fireball or unknown.*
+
 *Sometimes many people witness these objects (see Thousands report UFO in Papua
-New Guinea) and some areas are intense UFO encounter sites.*  
-  
+New Guinea) and some areas are intense UFO encounter sites.*
+
 *These things look not from this world!*
 
 Finally, these are the links for the top 6 sighting reports based on the
@@ -583,14 +585,14 @@ I never saw one before and this one is really close. It didn’t get closer than
 about 35-feet in diameter give or take five. At that height it looks bigger
 than, say, a full moon rising on the horizon and it’s brighter. As it moved it
 made a bright white glow with a hint of yellow, bright but without a strain...
-easy on the eyes....*  
-  
+easy on the eyes....*
+
 *Here’s what happened. We watched as the craft came lower, stopped, and became
 darker. Two small lights appeared. The craft was parked in the air just inside
 the levee of Big Lake maybe as close as 200-yards away. As we watched, something
 hit me, a marvelously happy feeling and I knew at the time it was coming from
-the craft. I thought THIS is a really good sign whoever they are....*  
-  
+the craft. I thought THIS is a really good sign whoever they are....*
+
 *The happiest feeling of anticipation had suddenly come upon me. I knew to
 expect something wonderful to happen between them and me. They were doing
 something to affect my mental state giving me a wonderful feeling of euphoria.
@@ -612,8 +614,8 @@ was on the left side so we had to go over the overpass. We could tell it was
 closed as soon as we came over the overpass. All of the parking lot lights were
 on but it was closed. I was in pain because my bladder was hurting now. I pulled
 partially into the entrance of the Shell station and then made a u turn. As I
-completed the u turn we saw a guard rail right in front of us. *  
-  
+completed the u turn we saw a guard rail right in front of us. *
+
 *At the very end of the guard rail as we were swinging around we saw something
 standing there. I couldn’t take my eyes off of it. It was right next to the
 road. Right next to the door of the car. It seemed to be! bristling. Like it was
@@ -632,8 +634,8 @@ area through her window. I remember thinking “It’s so skinny!” Next thing 
 we are past it and my daughter is asking me, “Was that a person?” I remember
 looking back over my right shoulder through the window behind her and still
 seeing the thing. It was moving and I had never been so terrified in my entire
-life. *  
-  
+life. *
+
 *My daughter said that she didn’t look at it but then moments later she said
 that it was really thin. I remember asking her how do you know that if you
 didn’t look at it? She still can’t answer that question, but is adamant about
