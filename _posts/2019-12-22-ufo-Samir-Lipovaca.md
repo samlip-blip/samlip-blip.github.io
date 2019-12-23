@@ -613,7 +613,7 @@ was on the left side so we had to go over the overpass. We could tell it was
 closed as soon as we came over the overpass. All of the parking lot lights were
 on but it was closed. I was in pain because my bladder was hurting now. I pulled
 partially into the entrance of the Shell station and then made a u turn. As I
-completed the u turn we saw a guard rail right in front of us. *
+completed the u turn we saw a guard rail right in front of us.*
 
 *At the very end of the guard rail as we were swinging around we saw something
 standing there. I couldn’t take my eyes off of it. It was right next to the
@@ -633,7 +633,7 @@ area through her window. I remember thinking “It’s so skinny!” Next thing 
 we are past it and my daughter is asking me, “Was that a person?” I remember
 looking back over my right shoulder through the window behind her and still
 seeing the thing. It was moving and I had never been so terrified in my entire
-life. *
+life.*
 
 *My daughter said that she didn’t look at it but then moments later she said
 that it was really thin. I remember asking her how do you know that if you
