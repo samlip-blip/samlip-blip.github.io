@@ -505,33 +505,48 @@ maneuverability and speed)
 The reports suggest these fascinating fragments of the story the UFO
 observational data is telling about the UFO phenomenon:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-It is about a moving, bright object or objects in the sky with distinct light features, extraordinary, unusual, flying characteristics, power to affect nearby things or living beings and some noticeable, sometimes, changing shape.
-
-The object can look like a colorful light in the sky that changes color, for example, from red to green to yellow, the light can be flashing or the light that disappears or the object looks like a moving star. For example, "glowing light that moved, stopped, glowed brighter and dimmed out" or "right before it would have hit plane, the light just sucked up in nothing and vanished".
-
-It seems if you look at the object’s lights it can affect you emotionally!
-
-These objects can hover and disappear, move erratically, like zig zag, can float and make absolutely no noise or sound.
-
-The object can be a silent airborne object and can come to a complete, sudden stop and smaller objects can fall out of the object.
-
-These objects can fly in a perfect formation like a perfect line or in a strange formation, for example S-shaped pattern, can loop over each other and display extraordinary maneuverability and speed and can suddenly change direction.
-
-It looks the object can somehow affect the memory of a person looking at it, causing memory gaps!
-
-Besides causing electrical failures in the car, wipers beating windshields, etc. the object can affect animal life as well.
-
-It looks when these objects are around, CD players and radios can mysteriously play the CD backwards!
-
-The objects can drain the power from the battery of car, seems to hear what a person was thinking and entities can abduct the person.
-
-The most frequent 5 shapes for these objects are light, circle, triangle, fireball or unknown.
-
-Sometimes many people witness these objects (see Thousands report UFO in Papua New Guinea) and some areas are intense UFO encounter sites.
-
-These things look not from this world!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*It is about a moving, bright object or objects in the sky with distinct light
+features, extraordinary, unusual, flying characteristics, power to affect nearby
+things or living beings and some noticeable, sometimes, changing shape.*  
+  
+*The object can look like a colorful light in the sky that changes color, for
+example, from red to green to yellow, the light can be flashing or the light
+that disappears or the object looks like a moving star. For example, "glowing
+light that moved, stopped, glowed brighter and dimmed out" or "right before it
+would have hit plane, the light just sucked up in nothing and vanished".*  
+  
+*It seems if you look at the object’s lights it can affect you emotionally!*  
+  
+*These objects can hover and disappear, move erratically, like zig zag, can
+float and make absolutely no noise or sound.*  
+  
+*The object can be a silent airborne object and can come to a complete, sudden
+stop and smaller objects can fall out of the object.*  
+  
+*These objects can fly in a perfect formation like a perfect line or in a
+strange formation, for example S-shaped pattern, can loop over each other and
+display extraordinary maneuverability and speed and can suddenly change
+direction.*  
+  
+*It looks the object can somehow affect the memory of a person looking at it,
+causing memory gaps!*  
+  
+*Besides causing electrical failures in the car, wipers beating windshields,
+etc. the object can affect animal life as well.*  
+  
+*It looks when these objects are around, CD players and radios can mysteriously
+play the CD backwards!*  
+  
+*The objects can drain the power from the battery of car, seems to hear what a
+person was thinking and entities can abduct the person.*  
+  
+*The most frequent 5 shapes for these objects are light, circle, triangle,
+fireball or unknown.*  
+  
+*Sometimes many people witness these objects (see Thousands report UFO in Papua
+New Guinea) and some areas are intense UFO encounter sites.*  
+  
+*These things look not from this world!*
 
 Finally, these are the links for the top 6 sighting reports based on the
 information entropy that we listed in 4.7 section:
@@ -548,8 +563,6 @@ information entropy that we listed in 4.7 section:
 
 6.  <http://www.nuforc.org/webreports/109/S109660.html>
 
- 
-
 The third report is about a Close Encounter of the Fifth Kind which Wikipedia
 defines as “a UFO event that involves direct communication between aliens and
 humans” [6].
@@ -559,31 +572,83 @@ humans” [6].
 
 Some captivating parts of that report:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The disk was still flying toward us, slowly, maybe 20-mph. It flew the same way over the canal until about 300-yards away. Then it went gradually higher to about 400-yards, almost over head. It’s changing direction slightly now, moving to the opposite edge of the canal and over a point about 100-yards in front of us. It slowed, descending as it went by. It’s absurd not being aware that it’s a UFO but it never entered my mind. A UFO is exactly what we saw, the real thing. I never saw one before and this one is really close. It didn’t get closer than 200-yards to where we stood. As the craft flew by, it was perfectly circular, about 35-feet in diameter give or take five. At that height it looks bigger than, say, a full moon rising on the horizon and it’s brighter. As it moved it made a bright white glow with a hint of yellow, bright but without a strain... easy on the eyes....
-
-Here’s what happened. We watched as the craft came lower, stopped, and became darker. Two small lights appeared. The craft was parked in the air just inside the levee of Big Lake maybe as close as 200-yards away. As we watched, something hit me, a marvelously happy feeling and I knew at the time it was coming from the craft. I thought THIS is a really good sign whoever they are....
-
-The happiest feeling of anticipation had suddenly come upon me. I knew to expect something wonderful to happen between them and me. They were doing something to affect my mental state giving me a wonderful feeling of euphoria. It‘s nothing like anything I’ve ever felt, a totally joyful happy feeling beyond description. I was so glad they were here and understood, waiting for something. I dared not move a muscle although knew I wasn’t restrained. Whatever came next I wanted to be part of it. Next, I was sensing a projection of thought to me, when soon thought-speech appeared in mind in my own idiom....
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*The disk was still flying toward us, slowly, maybe 20-mph. It flew the same way
+over the canal until about 300-yards away. Then it went gradually higher to
+about 400-yards, almost over head. It’s changing direction slightly now, moving
+to the opposite edge of the canal and over a point about 100-yards in front of
+us. It slowed, descending as it went by. It’s absurd not being aware that it’s a
+UFO but it never entered my mind. A UFO is exactly what we saw, the real thing.
+I never saw one before and this one is really close. It didn’t get closer than
+200-yards to where we stood. As the craft flew by, it was perfectly circular,
+about 35-feet in diameter give or take five. At that height it looks bigger
+than, say, a full moon rising on the horizon and it’s brighter. As it moved it
+made a bright white glow with a hint of yellow, bright but without a strain...
+easy on the eyes....*  
+  
+*Here’s what happened. We watched as the craft came lower, stopped, and became
+darker. Two small lights appeared. The craft was parked in the air just inside
+the levee of Big Lake maybe as close as 200-yards away. As we watched, something
+hit me, a marvelously happy feeling and I knew at the time it was coming from
+the craft. I thought THIS is a really good sign whoever they are....*  
+  
+*The happiest feeling of anticipation had suddenly come upon me. I knew to
+expect something wonderful to happen between them and me. They were doing
+something to affect my mental state giving me a wonderful feeling of euphoria.
+It‘s nothing like anything I’ve ever felt, a totally joyful happy feeling beyond
+description. I was so glad they were here and understood, waiting for something.
+I dared not move a muscle although knew I wasn’t restrained. Whatever came next
+I wanted to be part of it. Next, I was sensing a projection of thought to me,
+when soon thought-speech appeared in mind in my own idiom....*
 
 The most bizarre part of the 6th report is a description of a possible
 extraterrestrial biological entity:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Once back on the interstate I drove for quite some time when finally I just had to pull off. By this time it was after midnight. I took a well lit exit and saw a Wendy’s but it was only open for drive through. All of the gas stations were closed. All the while I’m checking the skies. So, I got back on I-77 and looked for another exit. That’s when I saw a Shell station sign and took that exit. It was on the left side so we had to go over the overpass. We could tell it was closed as soon as we came over the overpass. All of the parking lot lights were on but it was closed. I was in pain because my bladder was hurting now. I pulled partially into the entrance of the Shell station and then made a u turn. As I completed the u turn we saw a guard rail right in front of us. 
-
-At the very end of the guard rail as we were swinging around we saw something standing there. I couldn’t take my eyes off of it. It was right next to the road. Right next to the door of the car. It seemed to be! bristling. Like it was luminescent in some way, but it was really darkly colored like it was camouflaged. I actually thought it was someone dressed up in that camouflage netting stuff when it moved towards the glass right next to my daughter. She put her hands and arms up over her face and head and tucked her head downwards. That is how close that thing was to her door. I honestly thought it may have been a poacher until I could make out the shape of it. I could see a larger than normal rounded top of a head then it came down to a short little neck area then straight out to both sides to shoulders. (Human shoulders aren’t shaped that way.) Then it’s arms dropped straight down. The thing that made me realize that it wasn’t human was mostly that it’s waist was only like 8 inches wide and that it was about maybe 4 feet tall. I could see from the top of it’s head to its hip area through her window. I remember thinking “It’s so skinny!” Next thing I know we are past it and my daughter is asking me, “Was that a person?” I remember looking back over my right shoulder through the window behind her and still seeing the thing. It was moving and I had never been so terrified in my entire life. 
-
-My daughter said that she didn’t look at it but then moments later she said that it was really thin. I remember asking her how do you know that if you didn’t look at it? She still can’t answer that question, but is adamant about not looking at it.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Once back on the interstate I drove for quite some time when finally I just had
+to pull off. By this time it was after midnight. I took a well lit exit and saw
+a Wendy’s but it was only open for drive through. All of the gas stations were
+closed. All the while I’m checking the skies. So, I got back on I-77 and looked
+for another exit. That’s when I saw a Shell station sign and took that exit. It
+was on the left side so we had to go over the overpass. We could tell it was
+closed as soon as we came over the overpass. All of the parking lot lights were
+on but it was closed. I was in pain because my bladder was hurting now. I pulled
+partially into the entrance of the Shell station and then made a u turn. As I
+completed the u turn we saw a guard rail right in front of us. *  
+  
+*At the very end of the guard rail as we were swinging around we saw something
+standing there. I couldn’t take my eyes off of it. It was right next to the
+road. Right next to the door of the car. It seemed to be! bristling. Like it was
+luminescent in some way, but it was really darkly colored like it was
+camouflaged. I actually thought it was someone dressed up in that camouflage
+netting stuff when it moved towards the glass right next to my daughter. She put
+her hands and arms up over her face and head and tucked her head downwards. That
+is how close that thing was to her door. I honestly thought it may have been a
+poacher until I could make out the shape of it. I could see a larger than normal
+rounded top of a head then it came down to a short little neck area then
+straight out to both sides to shoulders. (Human shoulders aren’t shaped that
+way.) Then it’s arms dropped straight down. The thing that made me realize that
+it wasn’t human was mostly that it’s waist was only like 8 inches wide and that
+it was about maybe 4 feet tall. I could see from the top of it’s head to its hip
+area through her window. I remember thinking “It’s so skinny!” Next thing I know
+we are past it and my daughter is asking me, “Was that a person?” I remember
+looking back over my right shoulder through the window behind her and still
+seeing the thing. It was moving and I had never been so terrified in my entire
+life. *  
+  
+*My daughter said that she didn’t look at it but then moments later she said
+that it was really thin. I remember asking her how do you know that if you
+didn’t look at it? She still can’t answer that question, but is adamant about
+not looking at it.*
 
 Besides a possible abduction in both cases, what is so striking about the 6th
 report is that points to a possible occurrence of missing time:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Strange thing is that the clock on her cell and the register receipt didn’t match. The receipt said we left there at 10:05 and my daughter had gotten a call from her husband while we were at the table and the time read 10:46. That would mean that by her cell we left there after 11:00 PM. I know we weren’t sitting there for that long. I called the Denny’s last week and spoke to a manager to see if the register’s time was off. But, it was accurate. I can’t explain the difference.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Strange thing is that the clock on her cell and the register receipt didn’t
+match. The receipt said we left there at 10:05 and my daughter had gotten a call
+from her husband while we were at the table and the time read 10:46. That would
+mean that by her cell we left there after 11:00 PM. I know we weren’t sitting
+there for that long. I called the Denny’s last week and spoke to a manager to
+see if the register’s time was off. But, it was accurate. I can’t explain the
+difference.*
 
 Feel free to click on the links for these 2 reports or any of the above reports
 to explore them.
