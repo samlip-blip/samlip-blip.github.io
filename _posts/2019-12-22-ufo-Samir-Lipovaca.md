@@ -46,7 +46,7 @@ papers about UFOs have been published in peer-reviewed journals. The general
 conclusion in the scientific community was that the phenomenon was not worthy of
 serious investigation except as a cultural artifact.
 
-[1]. <https://en.wikipedia.org/wiki/Unidentified_flying_object>
+[1].<https://en.wikipedia.org/wiki/Unidentified_flying_object>
 
 **1.2 Problem**
 
@@ -117,7 +117,7 @@ Columns information:
 
 12. city_longitude: The longitude of the city in which the sighting occurred.
 
-[2]. <https://data.world/timothyrenner/ufo-sightings>
+[2].<https://data.world/timothyrenner/ufo-sightings>
 
 **3. Methodology**
 ------------------
@@ -138,9 +138,9 @@ and other non-alphanumeric characters, numbers, stop words and words with the
 length \<= 2 since all these entities do not help much in processing the
 information about sighting events and converting every remaining word to its
 lower case. After this preprocessing step we will calculate the frequency of the
-remaining words and create a list of these words sorted in descending order by
-the frequency so that the most frequent words are at the beginning of the list
-(ufo_words_list in the notebook).
+remaining words and create a list sorted in descending order by the frequency so
+that the most frequent words are at the beginning of the list (ufo_words_list in
+the notebook).
 
 Using WordNet [4] we will identify nouns, verbs, adjectives and adverbs in this
 list. WordNet is a large lexical database of English. Nouns, verbs, adjectives
@@ -155,11 +155,10 @@ each of these 4 word classes.
 Next, stemming will be done which is taking roots of every word in the list. A
 bar plot of the 100 most frequent stem words will be created to get a feeling
 for the most frequent root words used to describe the UFO phenomenon. We will
-focus our attention on the top 50 stem words and create a word cloud of these
-words to visually summarize the insights. We will sample sentences from the
-sighting reports containing one or more of these top 50 stem words to get an
-understanding how these stem words are used in the description of the UFO
-phenomenon.
+focus our attention on the top 50 stem words and create a word cloud to visually
+summarize the insights. We will sample sentences from the sighting reports
+containing one or more of these top 50 stem words to get an understanding how
+these stem words are used in the description of the UFO phenomenon.
 
 Finally, using our list we will proceed to calculate the information entropy for
 each sighting report in the dataset. The information entropy quantifies how much
@@ -176,11 +175,11 @@ lowest entropy reports.
 After all these steps we can attempt to reveal the story the UFO observational
 data is telling about the UFO phenomenon.
 
-[3]. <https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/>
+[3].<https://www.geeksforgeeks.org/python-nlp-analysis-of-restaurant-reviews/>
 
-[4]. <https://wordnet.princeton.edu/>
+[4].<https://wordnet.princeton.edu/>
 
-[5]. <https://machinelearningmastery.com/what-is-information-entropy/>
+[5].<https://machinelearningmastery.com/what-is-information-entropy/>
 
 **4. Analysis**
 ---------------
@@ -226,9 +225,9 @@ In order to run the NLP analysis we first need to install necessary libraries.
 Then we remove any number from the text_mining_info. We convert every word in
 the text_mining_info to its lower case. We replace all non-alphanumeric
 characters in the text_mining_info with a blank and keep only one blank between
-2 words. Next we split such modified text_mining_info on the blank and create a
+2 words. Next, we split such modified text_mining_info on the blank and create a
 list of the remaining words. Essentially, we convert the information from every
-sighting report into a respective list of words. Now for each of these lists we
+sighting report into a respective list of words. For each of these lists we
 remove stop words which are generally the most common words in a language, like
 words below.
 
@@ -238,7 +237,7 @@ words below.
 explore_text_mining_info_df["mining_info"]=explore_text_mining_info_df["text_mining_info_no_non_alpha_array"].apply(lambda x: [item for item in x if item not in stop_words])
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Finally for each of the lists we remove words with the length \<= 2.
+Finally, for each of the lists we remove words with the length \<= 2.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 explore_text_mining_info_df["mining_info2"]=explore_text_mining_info_df["mining_info"].apply(lambda x: [item for item in x if len(item) > 2])
@@ -328,7 +327,8 @@ Stem words are summarized by counts and percentages.
 
 The bar plot below of the 100 most frequent stem words shades a light on most
 often root words used to describe the UFO phenomenon. It seems all action is in
-the first half of the plot with ‘light’ as a very distinguished lead stem word.
+the first half of the plot with ‘light’ as a very distinguished leading stem
+word.
 
 ![](../images/P11.JPG)
 
@@ -504,7 +504,7 @@ maneuverability and speed)
 
  
 
-The reports suggest these fascinating fragments of the story the UFO
+The reports suggest following fascinating fragments of the story the UFO
 observational data is telling about the UFO phenomenon:
 
 *It is about a moving, bright object or objects in the sky with distinct light
@@ -550,7 +550,7 @@ New Guinea) and some areas are intense UFO encounter sites.*
 
 *These things look not from this world!*
 
-Finally, these are the links for the top 6 sighting reports based on the
+Finally, the links below are for the top 6 sighting reports based on the
 information entropy that we listed in 4.7 section:
 
 1.  <http://www.nuforc.org/webreports/002/S02047.html>
@@ -724,7 +724,7 @@ players and radios can mysteriously play the CD backwards and they can cause
 occurrence of missing time! Finally, entities in these objects can abduct the
 person.
 
-[7]. Hynek, Allen J. (1998) [First published 1972]. *The UFO Experience: A
+[7].Hynek, Allen J. (1998) [First published 1972]. *The UFO Experience: A
 Scientific Inquiry*. Da Capo
 Press. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [978-1-56924-782-2](https://en.wikipedia.org/wiki/Special:BookSources/978-1-56924-782-2).
 
