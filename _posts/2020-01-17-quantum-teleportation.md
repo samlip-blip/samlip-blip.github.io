@@ -3,8 +3,8 @@ Quantum Teleportation Exploration
 
  
 
-In this **notebook
-**<https://github.com/samlip-blip/quantum_teleportation/blob/master/QuantumTeleportation.ipynb>
+In this **notebook**
+<https://github.com/samlip-blip/quantum_teleportation/blob/master/QuantumTeleportation.ipynb>
 we will attempt to go into the details of the **Quantum Teleportation**.  
 Just recently physicists achieved the first-ever quantum teleportation between
 computer chips [2].  
@@ -25,8 +25,8 @@ provided to illustrate and better understand the general case.
 We finish the notebook with some modifications of the quantum teleportation
 circuit.
 
-[1] \< https://en.wikipedia.org/wiki/Quantum_entanglement\>
+[1] <https://en.wikipedia.org/wiki/Quantum_entanglement> 
 
-[2] \< https://www.nature.com/articles/s41567-019-0727-x\>
+[2] <https://www.nature.com/articles/s41567-019-0727-x>
 
  
