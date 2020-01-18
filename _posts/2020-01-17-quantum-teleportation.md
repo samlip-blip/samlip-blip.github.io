@@ -1,12 +1,12 @@
-
 In this [Qiskit
 Notebook](https://github.com/samlip-blip/quantum_teleportation/blob/master/QuantumTeleportation.ipynb)
 we will attempt to go into the details of the **Quantum Teleportation**.
 
-Just recently physicists achieved the first-ever quantum teleportation between
-computer chips [2].  
-The heart of the quantum teleportation is 
-quantum entanglement phenomenon [1].  
+Just recently physicists achieved the first-ever [quantum
+teleportation](https://en.wikipedia.org/wiki/Quantum_entanglement) between
+computer chips.  
+The heart of the quantum teleportation is [quantum entanglement
+phenomenon](https://www.nature.com/articles/s41567-019-0727-x).  
 An entangled system is one whose quantum state cannot be written as a product of
 states of its local constituents. In other words, constituents are not parts but
 are inseparable whole. One constituent cannot be fully described without
@@ -24,7 +24,3 @@ case. Two examples are provided to illustrate and better understand the general
 case.  
 We finish the notebook with some modifications of the quantum teleportation
 circuit.
-
-[1] <https://en.wikipedia.org/wiki/Quantum_entanglement> 
-
-[2] <https://www.nature.com/articles/s41567-019-0727-x>
