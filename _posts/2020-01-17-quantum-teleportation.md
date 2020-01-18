@@ -3,10 +3,10 @@ Notebook](https://github.com/samlip-blip/quantum_teleportation/blob/master/Quant
 we will attempt to go into the details of the **Quantum Teleportation**.
 
 Just recently physicists achieved the first-ever [quantum
-teleportation](https://en.wikipedia.org/wiki/Quantum_entanglement) between
+teleportation](https://www.nature.com/articles/s41567-019-0727-x) between
 computer chips.  
-The heart of the quantum teleportation is [quantum entanglement
-phenomenon](https://www.nature.com/articles/s41567-019-0727-x).  
+The heart of the quantum teleportation is [quantum entanglement phenomenon.
+​](https://en.wikipedia.org/wiki/Quantum_entangle)  
 An entangled system is one whose quantum state cannot be written as a product of
 states of its local constituents. In other words, constituents are not parts but
 are inseparable whole. One constituent cannot be fully described without
@@ -18,9 +18,15 @@ necessarily more than one term.
 The notebook will also show a necessity of working out related math to
 understand respective histograms of the results.
 
-After a short description of the quantum teleportation circuit we examine first
-𝜙\>=\|0\> and 𝜙\>=\|1\> cases before we attempt a general \|𝜙\>=𝛼\|0\> + 𝛽\|1\>
-case. Two examples are provided to illustrate and better understand the general
-case.  
+After a short description of the quantum teleportation circuit which is
+displayed below
+
+![](../images/QuantumTeleportationCircuit.JPG)
+
+ 
+
+we examine first 𝜙\>=\|0\> and 𝜙\>=\|1\> cases before we attempt a general
+\|𝜙\>=𝛼\|0\> + 𝛽\|1\> case. Two examples are provided to illustrate and better
+understand the general case.  
 We finish the notebook with some modifications of the quantum teleportation
 circuit.
