@@ -25,7 +25,8 @@ displayed below
 
 we examine first 𝜙\>=\|0\> and 𝜙\>=\|1\> cases before we attempt a general
 
-\|𝜙\>=𝛼\|0\> + 𝛽\|1\> case. Two examples are provided to illustrate and better
-understand the general case.  
+\|𝜙\>=𝛼\|0\> + 𝛽\|1\> case.
+
+Two examples are provided to illustrate and better understand the general case.  
 We finish the notebook with some modifications of the quantum teleportation
 circuit.
