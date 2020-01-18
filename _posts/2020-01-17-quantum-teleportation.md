@@ -30,3 +30,7 @@ we examine first 𝜙\>=\|0\> and 𝜙\>=\|1\> cases before we attempt a general
 Two examples are provided to illustrate and better understand the general case.  
 We finish the notebook with some modifications of the quantum teleportation
 circuit.
+
+Here is a
+[download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/samlip-blip/quantum_teleportation/blob/master/QuantumTeleportation.ipynb)
+link if you want to download the notebook....
