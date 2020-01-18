@@ -1,7 +1,3 @@
----
-published: true
----
- 
 
 In this [Qiskit
 Notebook](https://github.com/samlip-blip/quantum_teleportation/blob/master/QuantumTeleportation.ipynb)
