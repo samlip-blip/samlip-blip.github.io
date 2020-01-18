@@ -23,8 +23,6 @@ displayed below
 
 ![](../images/QuantumTeleportationCircuit.JPG)
 
- 
-
 we examine first 𝜙\>=\|0\> and 𝜙\>=\|1\> cases before we attempt a general
 \|𝜙\>=𝛼\|0\> + 𝛽\|1\> case.Two examples are provided to illustrate and better
 understand the general case.  
