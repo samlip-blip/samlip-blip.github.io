@@ -1,3 +1,6 @@
+---
+published: false
+---
  
 =
 
@@ -10,7 +13,8 @@ we will attempt to go into the details of the **Quantum Teleportation**.
   
 Just recently physicists achieved the first-ever quantum teleportation between
 computer chips [2].  
-The heart of the quantum teleportation is quantum entanglement phenomenon [1].  
+The heart of the quantum teleportation is 
+quantum entanglement phenomenon [1].  
 An entangled system is one whose quantum state cannot be written as a product of
 states of its local constituents. In other words, constituents are not parts but
 are inseparable whole. One constituent cannot be fully described without
@@ -33,5 +37,3 @@ circuit.
 [1] <https://en.wikipedia.org/wiki/Quantum_entanglement> 
 
 [2] <https://www.nature.com/articles/s41567-019-0727-x>
-
- 
