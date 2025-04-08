@@ -2,7 +2,6 @@
 title: Online Retail Data exploratory analysis with Python
 ---
 
- 
 Conclusions
 
 Addressing data management issues identified during the data cleansing step would be highly beneficial. If the dataset is to be maintained in Excel, consider adding macros to detect redundant observations and identify missing values in crucial fields like descriptions or customer IDs. Macros can also correct negative quantities, negative or zero unit prices, or unspecified countries.
