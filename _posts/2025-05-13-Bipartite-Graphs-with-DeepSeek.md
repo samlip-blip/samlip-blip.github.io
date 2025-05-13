@@ -1,5 +1,5 @@
 ---
-title:Bipartite Graphs with DeepSeek
+title: Bipartite Graphs with DeepSeek
 ---
 
 Imagine you have a group of people at a party, and you want to pair them up for a dance. A bipartite graph is like a dance chart where you have two separate groups of people, and each person from one group can only dance with someone from the other group.
